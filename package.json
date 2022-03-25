@@ -1,0 +1,28 @@
+{
+  "name": "desafio_evaluado_black_and_white",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamPJA/Black-and-White.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamPJA/Black-and-White/issues"
+  },
+  "homepage": "https://github.com/SamPJA/Black-and-White#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jimp": "^0.16.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
